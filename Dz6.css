@@ -1,0 +1,98 @@
+.wrapper{
+	padding: 0px 50px 0px 50px;
+}
+
+.Project-name{
+	color: gray;
+	font-size: 32px;
+}
+.navigation{
+	display: block;
+	text-align: center;
+	padding: 0;
+}
+.navigation li{
+	display: inline-block;
+	background: #dddada;
+	padding: 1.5% 1.5%;
+	color: #898f92;
+	text-decoration: none;
+	border-right: 1px solid grey;
+	width: 13%;
+}
+
+.navigation li:first-child {
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px; 
+}
+.navigation li:last-child {
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-right:none; 
+}
+.navigation li a{
+	color: #898f92;
+	text-decoration: none;
+}
+
+
+
+.dox{
+	padding: 50px;
+	text-align: center;
+}
+
+.dox button {
+	padding: 15px;
+	background: #35a835;
+	font-size: 26px;
+	color: #fff;
+	border: none;
+	border-radius: 10px; 
+}
+
+.row{
+	display: block;
+}
+
+.row .Heading {
+	display: inline-block;
+	padding: 20px 0;
+	margin: 0 20px;
+	width: 30%;
+	vertical-align: top;
+}
+
+.row .Heading a{
+	background:#3449bf;
+	padding: 10px 18px;
+	color: white;
+	border: none;
+	border-radius: 7px;
+	font-family: Arial;
+	text-decoration: none;
+}
+
+.footer{
+	margin-top: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
